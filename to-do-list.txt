@@ -1,0 +1,7 @@
+do_the_laundry
+washing-up
+cooking
+learning
+shopping
+do_the_clean-up
+gardening
